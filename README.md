@@ -1,6 +1,7 @@
 # Hi there! 😉
 
-🌐 My name is Yuriy Tsipak. I am a Front-End Developer, filmmaker and computer science student based in Poznań, Poland.
+**🌐 My name is Yuriy Tsipak.**
+I am a Front-End Developer, filmmaker and computer science student based in Poznań, Poland.
 <br/>
 
 ### Skills
