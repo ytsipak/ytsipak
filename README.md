@@ -1,7 +1,4 @@
-# Hi there! 😉
-
-**My name is Yuriy Tsipak.**
-<br/>
+# Hi, my name is Yura 😉
 I am a Front-End Developer, filmmaker and computer science student based in Poznań, Poland.
 <br/>
 
