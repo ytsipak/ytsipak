@@ -1,4 +1,6 @@
-![cropped-background](https://github.com/ytsipak/ytsipak/assets/122310792/6b259834-c476-4c08-b264-57a30cba4a4a)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/ytsipak/ytsipak/assets/122310792/6b259834-c476-4c08-b264-57a30cba4a4a" alt="cropped-background">
+</div>
 
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine</h3>
