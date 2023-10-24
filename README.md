@@ -1,5 +1,9 @@
-# Hi, my name is Yura 😉
-I am a Front-End Developer, filmmaker and computer science student based in Poznań, Poland.
+# Hey there! 👋 My name is Yura 😉
+ I'm a Software Engineering student at Collegium Da Vinci in Poznań, Poland. 📚
+<br/>
+##🛠️ What I'm Up To <br/>
+🌱 Currently, I'm working on building my portfolio. It's my creative playground where I showcase my skills and projects.
+🚀 I'm also diving deep into the world of web development, specifically focusing on learning and mastering ReactJS and NodeJS.
 <br/>
 
 ### Skills
