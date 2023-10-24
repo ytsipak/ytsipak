@@ -1,5 +1,4 @@
-![background](https://github.com/ytsipak/ytsipak/assets/122310792/a57b9232-5cab-4fb5-80c2-0fd583034380)
-
+![cropped-background](https://github.com/ytsipak/ytsipak/assets/122310792/6b259834-c476-4c08-b264-57a30cba4a4a)
 
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine</h3>
