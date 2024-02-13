@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📽️ Fact about me: I worked as a freelance filmmaker, collaborating with **popular athletes and brands** from Poland.
 
