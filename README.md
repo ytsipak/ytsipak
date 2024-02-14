@@ -12,17 +12,17 @@
 - 📽️ Fact about me: I worked as a freelance filmmaker, collaborating with **popular athletes and brands** from Poland.
 
 ### Languages and Tools
-    <!--- Html, Css ---> 
-    [![Language and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <!--- JavaScript --->
-    [![Language and Tools](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <!--- React, Next --->
-    [![Language and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <!--- Tailwind, Scss --->
-    [![Language and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <!--- Figma, Photoshop --->
-    [![Language and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
-<br />
+<!--- Html, Css ---> 
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!--- Java Script ---> 
+[![Languages and Tools](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!--- React, Next ---> 
+[![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!--- Tailwind, scss ---> 
+[![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!--- Figma, Photoshop ---> 
+[![Languages and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+<br/>
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
