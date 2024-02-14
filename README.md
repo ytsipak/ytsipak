@@ -17,6 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://linkedin.com/in/ytsipak" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="35" /></a>
-        <a href="https://t.me/ytsipak" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="35" width="35" /></a>
+        <a href="https://linkedin.com/in/ytsipak" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" /></a> &nbsp;
+        <a href="https://t.me/ytsipak" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="45" width="45" /></a>
     </p>
