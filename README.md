@@ -5,14 +5,12 @@
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine, living in Poznań</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 👨‍💻 Actively coding on 2 API websites for my portfolio.
 
-- 🌱 I’m currently learning **NextJS**
-
-- 📽️ Fact about me: I worked as a freelance filmmaker, collaborating with **popular athletes and brands** from Poland.
+- 🚀 Sharpening my skills in Next.js and TypeScript
 
 ### Languages and Tools
-[![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
