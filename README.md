@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine, living in Poznań</h3>
 
-- 👨‍💻 Actively coding on 2 API websites for my portfolio.
-
 - 🚀 Sharpening my skills in Next.js and TypeScript
+- 🌐 Currently crafting an NFT project website
+- 🧠 Sharpening skills on Codewars
 
 ### Languages and Tools
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
