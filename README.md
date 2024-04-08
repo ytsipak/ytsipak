@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine, living in Poznań</h3>
 
+- 🖥️ Spending free time solving problems on Codewars
 - 🚀 Sharpening my skills in Next.js and TypeScript
 - 🌐 Currently crafting an NFT project website
-- 🖥️ Spending free time coding on Codewars
 
 
 ### Languages and Tools
