@@ -5,14 +5,27 @@
 <h1 align="center">Hi, I'm  Yuriy 👋</h1>
 <h3 align="center">Web Developer from Ukraine, living in Poznań</h3>
 
-- 🖥️ Spending free time solving problems on Codewars
-- 🚀 Sharpening my skills in Next.js and TypeScript
-- 🌐 Currently crafting an NFT project website
+- 🖥️ Portfolio Website 
+- 🚀 [Resume](https://www.ytsipak.dev/assets/Yuriy%20Tsipak%20Resume-74ITMYY6.pdf)
 
-
-### Languages and Tools
-[![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+### Skills
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
+
+- Headless UI, Framer Motion, Tailwind CSS, SCSS, BEM
+- JavaScript, TypeScript, React
+- Figma, Photoshop, Illustrator
+- react-router, react-query
+- webpack, vite, axios
+- Jest
+- Git
+
+### Languages
+
+- 🇺🇸 English - C1 (Advanced)
+- 🇵🇱 Polish - B2 (Upper-intermediate)
+- 🇺🇦 Ukrainian - native
+- 🏴 Russian - native
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
