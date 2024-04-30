@@ -25,7 +25,7 @@
 - 🇺🇸 English - C1 (Advanced)
 - 🇵🇱 Polish - B2 (Upper-intermediate)
 - 🇺🇦 Ukrainian - native
-- 🏴 Russian - native
+- 🏴 Russian - С1
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
