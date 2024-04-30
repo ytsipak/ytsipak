@@ -12,7 +12,7 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Languages and Tools](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
-- JavaScript, TypeScript, React
+- JavaScript, TypeScript, React, Next
 - webpack, vite, axios
 - react-router, react-query
 - Headless UI, Framer Motion, Tailwind
