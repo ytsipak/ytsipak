@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Yuriy 👋</h1>
-<h3 align="center">SAP Access Governance & Security Operations Lead @ Astek | IAM · SAP GRC · Authorizations</h3>
+<h3 align="center">SAP Access Governance & Security Operations Lead @ Astek</h3>
 
 <p align="center">
     Based in Poland 🇵🇱 · Originally from Ukraine 🇺🇦
@@ -13,11 +13,11 @@
 
 ### About
 
-I work in SAP access governance and security operations, supporting enterprise environments across user access, authorizations, compliance-driven processes, release/change coordination, documentation, and stakeholder communication.
+I work in SAP access governance and security operations, supporting enterprise environments across user access, authorizations, compliance-driven processes, change/release coordination, documentation, and stakeholder communication.
 
-I also build AI-powered websites, landing pages, automations, and digital business systems using modern web technologies and AI workflows.
+My current focus is SAP Security, SAP GRC, IAM, and Access Governance.
 
-Current focus: SAP Security, SAP GRC, IAM, and Access Governance.
+Alongside SAP, I build AI-powered websites, automations, landing pages, and digital business systems using modern web technologies and AI workflows.
 
 ---
 
@@ -25,8 +25,8 @@ Current focus: SAP Security, SAP GRC, IAM, and Access Governance.
 
 - SAP Access Governance
 - SAP Security & Authorizations
-- SAP GRC / compliance support
 - IAM / user access processes
+- SAP GRC / compliance support
 - Change, release & transport coordination
 - Documentation & stakeholder communication
 - AI-assisted website and automation building
