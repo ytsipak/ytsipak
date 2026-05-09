@@ -60,8 +60,6 @@ Alongside SAP, I build AI-powered websites, automations, landing pages, and digi
 
 ---
 
----
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
