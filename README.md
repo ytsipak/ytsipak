@@ -13,11 +13,11 @@
 
 ### About
 
-I work in SAP access governance and security operations, supporting enterprise environments across user access, authorizations, compliance-driven processes, change/release coordination, documentation, and stakeholder communication.
+I work across SAP access governance, security operations, user access processes, authorizations, compliance-driven workflows, change/release coordination, documentation, and stakeholder communication in enterprise environments.
 
-My current focus is SAP Security, SAP GRC, IAM, and Access Governance.
+My current direction is SAP Security, SAP GRC, IAM, Access Governance, and security-focused operations.
 
-Alongside SAP, I build AI-powered websites, automations, landing pages, and digital business systems using modern web technologies and AI workflows.
+Alongside SAP, I build AI-powered websites, automations, landing pages, and digital business systems using modern web technologies, AI tools, and practical engineering workflows.
 
 ---
 
@@ -25,18 +25,32 @@ Alongside SAP, I build AI-powered websites, automations, landing pages, and digi
 
 - SAP Access Governance
 - SAP Security & Authorizations
-- IAM / user access processes
 - SAP GRC / compliance support
+- IAM / user access processes
+- User access reviews & access lifecycle support
 - Change, release & transport coordination
-- Documentation & stakeholder communication
-- AI-assisted website and automation building
-- Digital systems, landing pages & business workflows
+- Documentation, process ownership & stakeholder communication
+- AI-assisted development, automation & digital systems
+- Landing pages, business workflows & product interfaces
 
 ---
 
-### Tech & Tools
+### Systems, AI & Tools
+
+<p align="left">
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+    <img src="https://img.shields.io/badge/SAP_GRC-1F2937?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GRC" />
+    <img src="https://img.shields.io/badge/IAM-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="IAM" />
+    <img src="https://img.shields.io/badge/Access_Governance-374151?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Access Governance" />
+    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</p>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,figma,git)](https://skillicons.dev)
+
+<br/>
+
+JavaScript · TypeScript · React · Next.js · Tailwind · SCSS · Figma · Git · AI-assisted development · Automation workflows
 
 ---
 
