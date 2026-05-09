@@ -48,9 +48,6 @@ Alongside SAP, I build AI-powered websites, automations, landing pages, and digi
 
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,figma,git)](https://skillicons.dev)
 
-<br/>
-
-JavaScript · TypeScript · React · Next.js · Tailwind · SCSS · Figma · Git · AI-assisted development · Automation workflows
 
 ---
 
