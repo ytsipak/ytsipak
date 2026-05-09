@@ -21,15 +21,6 @@ Current focus: SAP Security, SAP GRC, IAM, and Access Governance.
 
 ---
 
-### Links
-
-- 🖥️ [Portfolio Website](https://www.ytsipak.dev/)
-- 🚀 [Resume](https://www.ytsipak.dev/assets/Yuriy%20Tsipak%20Resume-74ITMYY6.pdf)
-- 💼 [LinkedIn](https://linkedin.com/in/ytsipak)
-- ✈️ [Telegram](https://t.me/ytsipak)
-
----
-
 ### Core Areas
 
 - SAP Access Governance
