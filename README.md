@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/ytsipak/ytsipak/assets/122310792/6b259834-c476-4c08-b264-57a30cba4a4a" alt="cropped-background">
+    <img src="https://github.com/user-attachments/assets/82fbeef3-9332-41f5-9bf0-58d670f3ac49" alt="cropped-background">
 </div>
 
 <h1 align="center">Hi, I'm Yuriy 👋</h1>
